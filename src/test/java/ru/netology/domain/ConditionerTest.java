@@ -9,11 +9,6 @@ class ConditionerTest {
     @Test
     void increaseCurrentTemperature() {
         Conditioner conditioner = new Conditioner();
-        assertEquals(expected: 21, );
-        int setCurrentTemperature = 20;
-        int expected = 21;
 
-
-        assertEquals(expected);
     }
 }
